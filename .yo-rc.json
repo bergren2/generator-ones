@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Dan Bergren",
+      "authorEmail": "bergren2@users.noreply.github.com",
+      "authorUrl": ""
+    }
+  }
+}
