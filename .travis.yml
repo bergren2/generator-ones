@@ -1,6 +1,5 @@
 language: node_js
 node_js:
-  - '11.5'
   - v11
   - v10
   - v8
