@@ -6,3 +6,8 @@ node_js:
   - v6
   - v4
 after_script: cat ./coverage/lcov.info | coveralls
+branches:
+  only:
+    - master
+notifications:
+  email: false
